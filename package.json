@@ -1,6 +1,6 @@
 {
   "name": "chat-joke",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "icanhazdadjoke.com API library",
   "main": "index.js",
   "scripts": {
