@@ -1,4 +1,4 @@
-"user strict"
+"use strict"
 var request = require('request');
 
 function getJoke(callback){
