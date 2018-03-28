@@ -1,0 +1,26 @@
+{
+  "name": "chat-joke",
+  "version": "1.0.1",
+  "description": "icanhazdadjoke.com API library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenDStanton/chat-joke.git"
+  },
+  "keywords": [
+    "joke",
+    "chat"
+  ],
+  "author": "Steven D Stanton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StevenDStanton/chat-joke/issues"
+  },
+  "homepage": "https://github.com/StevenDStanton/chat-joke#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
